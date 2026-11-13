@@ -1,0 +1,9 @@
+pillow>=10.0.0
+keyboard>=0.13.5
+pyperclip>=1.8.2
+winocr>=0.0.10
+groq>=0.11.0
+google-genai>=0.1.1
+pymupdf>=1.24.0
+sympy>=1.12
+mss>=9.0.0

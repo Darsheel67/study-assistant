@@ -1,0 +1,25 @@
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Environment & Secrets (NEVER COMMIT KEYS)
+.env
+
+# Logs and Local Databases
+*.log
+*.jsonl
+.study_rag.db
+*.db
+
+# OS Artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
